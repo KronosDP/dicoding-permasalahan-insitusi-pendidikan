@@ -66,7 +66,7 @@ Dalam proyek ini, sebuah prototipe telah disiapkan untuk melakukan prediksi meng
   ```
 
 - **Akses melalui web**
-  Silakan buka prototipe langsung di [tautan ini]().
+  Silakan buka prototipe langsung di [tautan ini](https://dicoding-permasalahan-insitusi-pendidikan-fr5ke8tglqb7weakkcic.streamlit.app/).
 
 ## Conclusion
 
