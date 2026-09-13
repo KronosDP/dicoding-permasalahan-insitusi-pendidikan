@@ -54,6 +54,9 @@ Dashboard ini dirancang untuk memberikan gambaran menyeluruh mengenai “Status�
 
 Lebih jauh, dashboard ini menyajikan analisis komprehensif atas berbagai faktor—seperti prestasi akademik, ketersediaan beasiswa, beban biaya pendidikan, serta latar belakang kualifikasi orang tua—yang berpengaruh pada keputusan mahasiswa untuk berhenti studi. Dengan memahami kekuatan dan arah pengaruh tiap variabel, institusi dapat merumuskan kebijakan dan intervensi yang lebih tepat sasaran, misalnya program pendampingan bagi mahasiswa berisiko tinggi atau penyesuaian skema beasiswa, sehingga upaya peningkatan retensi menjadi lebih efektif.
 
+![Dashboard overview](dashboard-1.png)
+![Dashboard detail](dashboard-2.png)
+
 ## Menjalankan Sistem Machine Learning
 
 Dalam proyek ini, sebuah prototipe telah disiapkan untuk melakukan prediksi menggunakan model yang telah dilatih.
